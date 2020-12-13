@@ -10,9 +10,11 @@ There are some SketchUp models in this folder as well, which are mostly sketches
 ### Wheels and Suspension
 There is a separate wheel/suspension subassembly for each wheel (FR, FL, RR, RL). The left and right assemblies ((FR, FL), & (RR, RL)) are identical in nearly every way, differing only in a unique spring, whose length is a function of the that wheel's wishbone positions. The front and rear suspensions differ only in the way they mate to the assembly. The front two wheels have a cylindrical mate (placeholder for a steering motor), while the rear two wheels (which do not turn) mate via a rectangular prism. They all share the same wishbone, motor, motor hub, mudguard, and wheel files. You can manually adjust the position of a wheel (up/down) in either the rear or front chassis subassembly, and the spring inside will correspondingly compress or stretch (after you rebuild the document).
 
+### Extended/Unextended Configurations
+
 ### Credits
 Moon image used in Courage Mission logo from [https://en.wikipedia.org/wiki/Moon](https://en.wikipedia.org/wiki/Moon)
 Z2 Astronaut from [https://nasa3d.arc.nasa.gov/detail/nmss-z2](https://nasa3d.arc.nasa.gov/detail/nmss-z2)
 8020 Beam Profiles from [8020.net](8020.net) and [https://www.3dcontentcentral.com](https://www.3dcontentcentral.com)
-
+Velodyne LiDAR Ultra Lite Puck from 
 
