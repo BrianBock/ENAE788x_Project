@@ -12,6 +12,10 @@ There is a separate wheel/suspension subassembly for each wheel (FR, FL, RR, RL)
 
 ### Extended/Unextended Configurations
 
+
+### Trafficability Rover
+There is a file (`trafficability rover.sladsm`) which is the same as the final rover file, but with completely different mates. This version is used to generate the trafficability analysis and renders, while still preserving the original final rover. 
+
 ### Credits
 Moon image used in Courage Mission logo from [https://en.wikipedia.org/wiki/Moon](https://en.wikipedia.org/wiki/Moon)
 Z2 Astronaut from [https://nasa3d.arc.nasa.gov/detail/nmss-z2](https://nasa3d.arc.nasa.gov/detail/nmss-z2)
